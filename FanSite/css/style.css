@@ -1,0 +1,64 @@
+body {
+  background-color:#fcfafa;
+  font-family: "MedievalSharp", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-optical-sizing: auto;
+}
+
+p {
+  color: #FFFFFF;
+}
+
+/*Header stuff*/
+
+.header {
+  color: #c60c30;
+  background-color: #00338d;
+  padding: 50px;
+  margin: 50px 0 50px 0;
+  text-align: center;
+}
+
+.subhead {
+  font-size: 2em;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+/*Link related stuff*/
+
+a {
+  color: #00338d;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #00338d;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #c60c30;
+  text-decoration: none;
+}
+
+/*Controls patron saints*/
+
+.patron-saints-container {
+  text-align: center;
+}
+
+.patron-saint{
+  color: #FFFFFF;
+  background-color: #091F2C;
+  transition: transform 0.5s ease;
+  margin: 50px 0 50px 0;
+  padding: 15px;
+}
+
+.patron-saint:hover {
+  transform: scale(1.15);
+}
