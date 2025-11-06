@@ -1,0 +1,49 @@
+html * {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h3 {
+    font-weight: 500;
+}
+
+p {
+    font-weight: 300;
+}
+
+.body-copy {
+    margin: 50px;
+    background-color: lightgray;
+    padding: 10px 0 10px 0;
+}
+
+.head-image {
+    margin: 20px 0 20px 0;
+    border: 1px solid black;
+    width: 250%;
+}
+
+.headline-box {
+    margin: 20px 0 20px 0;
+}
+
+.chart {
+    display: flex;
+    margin: 5px;
+    width: 50%;
+    border: solid 1px black;
+    justify-content: center;
+    align-items: center;
+}
+
+blockquote {
+    color: darkslategrey;
+}
