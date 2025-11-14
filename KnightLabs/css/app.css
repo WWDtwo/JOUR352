@@ -1,0 +1,14 @@
+* body {
+    background-color: slategray;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+}
+
+.header {
+    text-align: center;
+}
+
+.jux {
+    width: 300%;
+    height: 300%;
+}
