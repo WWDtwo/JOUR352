@@ -1,0 +1,44 @@
+* body {
+    background-color: slategray;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+}
+
+h1 {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    color: azure;
+}
+
+h2 {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+}
+
+.altplate {
+    margin: 50px;
+    padding: 20px;
+    background-color: darkslategrey;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    box-shadow: 5px 5px 10px;
+}
+
+.altplate h2 {
+    color: azure;
+}
+
+.blankplate {
+    margin: 50px;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.altplate ul {
+    list-style-position: inside;
+    padding-left: 0.25rem;
+    color: azure;
+}
