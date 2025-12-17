@@ -1,0 +1,33 @@
+p {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
+
+h1 {
+    font-family: "BBH Bogle", sans-serif;
+    font-weight: 400;
+    font-size: 85px;
+}
+
+h2 {
+    font-family: "BBH Bogle", sans-serif;
+    font-weight: 400;
+}
+
+iframe {
+    margin: 0 5px 0 5px;
+}
+
+img {
+    border: 1px #000000 solid;
+    margin: 5px 0 5px 0;
+}
+
+.pageHeader {
+    align-items: center;
+    text-align: center;
+}
+
+.section {
+    margin: 10px 0 10px 0;
+}
